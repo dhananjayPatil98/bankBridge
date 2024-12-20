@@ -4,7 +4,7 @@ A Customer Relationship Management (CRM) system tailored for the banking industr
 ## Features
 - Customer management
 - Account tracking
-- Loan and service management
+- Service management
 - Analytics and reporting
 
 ## Technology Stack
